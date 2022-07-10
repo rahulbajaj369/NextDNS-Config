@@ -26,6 +26,8 @@
 
 # Privacy
 ### Blocklists
+	1Hosts (mini)
+	1Hosts (Lite)
 	1Hosts (Pro)
 ### Native Tracking Protection
 :radioactive: *Enabling can cause breakages; Does not bring visible advantages when using the suggested selection of bloclists.*
